@@ -1,0 +1,4 @@
+cl /EHsc main.cpp /I "C:\mysql-connector-c++-8.0.32\include\jdbc" /link /LIBPATH:"C:\mysql-connector-c++-8.0.32\lib64\vs14" mysqlcppconn.lib
+
+in x64 Native Tools Command Prompt for VS
+and under c:\cycle_rental_new\
